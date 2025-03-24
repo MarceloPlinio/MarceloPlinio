@@ -1,0 +1,24 @@
+name: Update Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
+  workflow_dispatch:      # Permite rodar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@master
+        with:
+          github_user_name: MarceloPlinio
+          svg_out_path: dist/github-snake.svg
+      - name: Push to output branch
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/
