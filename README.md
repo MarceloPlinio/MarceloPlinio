@@ -44,7 +44,3 @@ Olá! Me chamo Marcelo Plínio, tenho 23 anos e sou natural do Recife. Atualment
 ## 📫 Como me encontrar
 - Marcelo Plínio: [LinkedIn](https://www.linkedin.com/in/marceloplinio)
 - Email: Mplmdswork@gmail.com
-
-## 🐍 Commits
-
-![Snake animation](https://github.com/MarceloPlinio/MarceloPlinio/blob/output/github-contribution-grid-snake-dark.svg)
