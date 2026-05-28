@@ -1,12 +1,11 @@
 # 👨‍💻 Marcelo Plínio 
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Back-end e Front-end`**
 
-Olá! Me chamo Marcelo Plínio, tenho 23 anos e sou natural do Recife. Atualmente:
-- 🎓 Cursando o 4º período de Ciência da Computação na UNIFG
-- 💼 Estagiando na Compass UOL
-- 🌱 Aprendendo constantemente sobre desenvolvimento back-end
-
+Olá! Me chamo Marcelo Plínio, tenho 24 anos e sou natural do Recife. Atualmente:
+- 🎓 Cursando o 5º período de Ciência da Computação na UNIFG
+- 🌱 Aprendendo constantemente sobre desenvolvimento back-end e front-end
+- Além da programação, gosto de fazer Design's, Sound Design, UI sounds e etc...
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
